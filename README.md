@@ -16,3 +16,6 @@
 **6 Find the minimum value in the binary tree**: Search for the minimum value in the binary tree. Using recursive method and iterative method.  
 
 **7 Find the height of a node inside a binary tree**: Find the height of a node inside a binary tree. Using recursive algorithm. 
+
+
+**8 Traverse the binary tree in level-order**: Visit all the nodes at the same level before we move to the next level. 
