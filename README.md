@@ -12,3 +12,5 @@
 						its operation in constant time by using a linked list .
 
 **5 Implement a binary tree** : Implement a binary tree and performs search and insert operations by using recursion funciton. 
+
+**6 Find the minimum value in the binary tree**: Search for the minimum value in the binary tree. Using recursive method and iterative method.  
