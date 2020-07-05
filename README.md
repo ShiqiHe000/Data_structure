@@ -10,3 +10,5 @@
 
 **4 Implement queue by using an linked list**: Implement a queque data structure and performs 
 						its operation in constant time by using a linked list .
+
+**5 Implement a binary tree** : Implement a binary tree and performs search and insert operations by using recursion funciton. 
