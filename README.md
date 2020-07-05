@@ -19,3 +19,5 @@
 
 
 **8 Traverse the binary tree in level-order**: Visit all the nodes at the same level before we move to the next level. 
+
+**9 Traverse the binary tree in preorder manner**: <root><left><right>, recursive. 
