@@ -20,4 +20,6 @@
 
 **8 Traverse the binary tree in level-order**: Visit all the nodes at the same level before we move to the next level. 
 
-**9 Traverse the binary tree in preorder manner**: <root><left><right>, recursive. 
+**9 Traverse the binary tree in preorder manner**: \<root\>\<left\>\<right\>, recursive. 
+
+**10 Delete node in a BST tree**: Delete a node a BST tree. Recursive function. 
