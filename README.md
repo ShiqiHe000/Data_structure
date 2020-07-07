@@ -23,3 +23,6 @@
 **9 Traverse the binary tree in preorder manner**: \<root\>\<left\>\<right\>, recursive. 
 
 **10 Delete node in a BST tree**: Delete a node a BST tree. Recursive function. 
+
+**11 Find the successor node and the predecessor node of an infix ordered BST**: two algorithms offered. 
+
