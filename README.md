@@ -26,3 +26,4 @@
 
 **11 Find the successor node and the predecessor node of an infix ordered BST**: two algorithms offered. 
 
+**12 Merge to bindary tree**: Leetcode 617. 
